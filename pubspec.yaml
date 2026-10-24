@@ -1,19 +1,17 @@
+
 name: heart_twin
-description: A polished cardiovascular digital twin proof-of-concept.
-publish_to: "none"
-version: 1.0.0+1
+
 
 environment:
-  sdk: ">=3.3.0 <4.0.0"
+  sdk: ^3.13.0
+
+
 
 dependencies:
   flutter:
     sdk: flutter
-  cupertino_icons: ^1.0.8
-  google_fonts: ^6.2.1
-  fl_chart: ^0.69.2
-  model_viewer_plus: ^1.9.3
-  http: ^1.6.0
+  http: ^1.2.2
+  model_viewer_plus: ^1.9.0
 
 dev_dependencies:
   flutter_test:
@@ -23,4 +21,4 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - assets/models/
+    - assets/models/heart.glb

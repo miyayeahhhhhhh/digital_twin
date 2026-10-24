@@ -17,6 +17,16 @@ migrate_working_dir/
 *.ipr
 *.iws
 .idea/
+backend/.venv/
+**/__pycache__/
+*.py[cod]
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+.env
+.env.*
+!.env.example
 
 # The .vscode folder contains launch configuration and tasks you configure in
 # VS Code which you may wish to be included in version control, so this line
@@ -46,3 +56,8 @@ app.*.map.json
 
 # Widget Preview related
 .widget_preview/
+android/build/
+assets/final/Library/
+assets/final/Logs/
+assets/final/Temp/
+assets/final/obj/
