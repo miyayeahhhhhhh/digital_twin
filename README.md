@@ -84,7 +84,7 @@ MIT License. See `LICENSE`.
 
 ## Team details
 
-- Team: [Add team name]
-- Team leader: [Add name]
-- Institution / incubator: [Add institution]
-- Team members: [Add members]
+- Team: doomslayers
+- Team leader: Samiya Sonawane
+- Institution / incubator: MIT Academy Of Engineering
+- Team members: Atharva Shimpi, Varun Dalimkar, Suhani Thakur
