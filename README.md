@@ -23,9 +23,9 @@
 
 ### Links & Assets 
 *(Note: All linked files are publicly accessible without additional permissions)*
-*   🎥 **15-20 Minute Demo Video (Unlisted YouTube):** [
-*   🏗️ **Architecture Diagram (PDF/PPT):** 
-*   📊 **Project Presentation (PDF/PPT):** 
+*   🎥 **15-20 Minute Demo Video (Unlisted YouTube):** https://drive.google.com/drive/folders/1YyO9HAcppPLJUHGLoLrD03rC3cN6N3Nl?usp=sharing
+*   🏗️ **Architecture Diagram (PDF/PPT):** https://drive.google.com/drive/folders/14t5B79hQ0rds-n4EO-DqLn3TJF2fOEea?usp=sharing
+*   📊 **Project Presentation (PDF/PPT):** https://drive.google.com/drive/folders/14t5B79hQ0rds-n4EO-DqLn3TJF2fOEea?usp=sharing
 
 ---
 
