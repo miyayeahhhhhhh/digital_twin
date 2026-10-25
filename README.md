@@ -12,6 +12,8 @@
 ### Team Details
 *   **Team Name:** de-bugged
 *   **Team Leader:** Samiya Sonawane
+*    gmail: sonawanesamiya65@gmail.com
+*    phn: 9359855673
 *   **Team Members:**
     *   Atharva Shimpi 
     *   Varun Dalimkar 
